@@ -5,3 +5,12 @@ Requirements (Libraries Required):
 *tkinter
 *pyttsx3
 *speech_recognition 
+
+
+
+
+
+
+
+
+
